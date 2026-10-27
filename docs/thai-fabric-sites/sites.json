@@ -1,0 +1,301 @@
+[
+  {
+    "id": 1,
+    "name": "Alvaascé",
+    "url": "https://alvaasce.com/",
+    "type": "服装 · 综合面料",
+    "tags": [
+      "apparel",
+      "function"
+    ],
+    "focus": "时尚品牌感 × 供应能力",
+    "about": "泰国面料供应商；服装、基础装饰与功能面料方向。",
+    "look": "看 Fashion、Basics、Functions 的业务分区，以及首页如何同时传达时尚感与供货能力。",
+    "use": "适合参考 Thai Kim 的整体品牌定位与栏目结构。",
+    "tier": "priority"
+  },
+  {
+    "id": 2,
+    "name": "Royal Blue",
+    "url": "https://www.goroyalblue.com/",
+    "type": "高端服装面料",
+    "tags": [
+      "apparel"
+    ],
+    "focus": "精致选料 × 专业采购",
+    "about": "曼谷的西装、衬衫等高端面料供应商。",
+    "look": "看品牌系列、面料图片、产品分类，以及 Samples 样品入口。",
+    "use": "适合参考高端面料贸易商的产品呈现方式。",
+    "tier": "priority"
+  },
+  {
+    "id": 3,
+    "name": "Bulliontex",
+    "url": "https://www.bulliontex.com/",
+    "type": "综合面料 · 库存 · 印花",
+    "tags": [
+      "apparel",
+      "interior",
+      "print",
+      "function"
+    ],
+    "focus": "品牌展示 × 高效找布",
+    "about": "泰国综合面料供应商；覆盖服装、家纺、功能面料与印花服务。",
+    "look": "看成衣视觉、新品、按用途找布、样册和独立的 Dead Stock 库存频道。",
+    "use": "业务结构接近你们的选料、常备与库存需求。",
+    "tier": "priority"
+  },
+  {
+    "id": 4,
+    "name": "Jim Thompson Fabrics",
+    "url": "https://www.jimthompsonfabrics.com/",
+    "type": "泰丝 · 高端装饰面料",
+    "tags": [
+      "interior",
+      "silk"
+    ],
+    "focus": "泰国品牌气质 × 系列叙事",
+    "about": "总部在曼谷的面料品牌；此链接为专业面料站。",
+    "look": "看系列主题、花型与空间的结合，以及面料、现货和询价入口。",
+    "use": "适合挑选高端品牌气质，不照搬服装零售逻辑。",
+    "tier": "priority"
+  },
+  {
+    "id": 5,
+    "name": "PASAYA Fabrics",
+    "url": "https://fabrics.pasaya.com/fabric.php",
+    "type": "窗帘 · 家居装饰面料",
+    "tags": [
+      "interior"
+    ],
+    "focus": "品质感 × 系列化选料",
+    "about": "泰国品牌的专业面料站；以窗帘和家具覆面等装饰面料为主。",
+    "look": "看系列封面、材质配色，以及名称、风格、颜色、系列和编号等找布入口。",
+    "use": "适合参考面料系列如何兼顾形象与检索。",
+    "tier": "priority"
+  },
+  {
+    "id": 6,
+    "name": "VICHITR",
+    "url": "https://www.vichitr.com/",
+    "type": "窗帘 · 家具覆面面料",
+    "tags": [
+      "interior",
+      "function"
+    ],
+    "focus": "品牌统一 × 清晰分类",
+    "about": "泰国装饰面料品牌；前一轮收集中对应原 VC Fabric 网站。",
+    "look": "看用途、质感与功能分类，并留意 Outlet 如何独立于主站产品展示。",
+    "use": "适合参考主站形象与库存销售的分工。",
+    "tier": "brand"
+  },
+  {
+    "id": 7,
+    "name": "CHALEEYA",
+    "url": "https://chaleeya.com/",
+    "type": "家居装饰面料",
+    "tags": [
+      "interior"
+    ],
+    "focus": "自然安静 × 生活氛围",
+    "about": "曼谷家居装饰面料品牌。",
+    "look": "看系列、空间感受与面料册的组织方式，以及专业配色与规格资料。",
+    "use": "适合比较自然、温暖、克制的品牌风格。",
+    "tier": "brand"
+  },
+  {
+    "id": 8,
+    "name": "Giovani Fabrics",
+    "url": "https://www.giovanifabrics.com/",
+    "type": "高端进口服装面料",
+    "tags": [
+      "apparel"
+    ],
+    "focus": "高端分销 × 定制选材",
+    "about": "曼谷面料分销商；西装、衬衫与夹克面料方向。",
+    "look": "看系列化展示和面向裁缝、定制客户的专业采购定位。",
+    "use": "适合参考面料贸易公司的高端表达。",
+    "tier": "brand"
+  },
+  {
+    "id": 9,
+    "name": "Fabricity",
+    "url": "https://fabricity.com/",
+    "type": "服装面料 · 数码印花",
+    "tags": [
+      "apparel",
+      "print"
+    ],
+    "focus": "印花发现 × 定制入口",
+    "about": "曼谷面料及数码印花品牌。",
+    "look": "看大花、小花、几何、叶子等花型入口，以及 Create Your Fabric 定制路径。",
+    "use": "你们有印花设计业务，建议单独重点研究。",
+    "tier": "printpick"
+  },
+  {
+    "id": 10,
+    "name": "Gandhi Fabrics",
+    "url": "https://www.gandhifabrics.com/",
+    "type": "服装面料 · 零售与批发",
+    "tags": [
+      "apparel",
+      "print",
+      "silk"
+    ],
+    "focus": "选料商城 × 产品发现",
+    "about": "泰国面料商；棉、麻、缎、蕾丝、丝绸与提花等方向。",
+    "look": "看新品、花型、色号、收藏和折扣专区的组织方式。",
+    "use": "适合参考有品牌感的面料选购体验。",
+    "tier": "business"
+  },
+  {
+    "id": 11,
+    "name": "Fabrica International",
+    "url": "https://fabricainter.com/",
+    "type": "服装面料 · 印花 · 刺绣",
+    "tags": [
+      "apparel",
+      "print"
+    ],
+    "focus": "客户用途 × 产品系列",
+    "about": "曼谷服装面料批发与零售企业。",
+    "look": "看 Collections，以及针对品牌、设计师和转售客户的内容分区。",
+    "use": "适合参考按客户需求组织业务，而不是只列货号。",
+    "tier": "business"
+  },
+  {
+    "id": 12,
+    "name": "Jong Stit",
+    "url": "https://www.jongstit.com/en",
+    "type": "针织 · 涤纶 · 印花面料",
+    "tags": [
+      "apparel",
+      "print",
+      "function"
+    ],
+    "focus": "B2B 专业感 × 应用场景",
+    "about": "泰国针织、涤纶与印花面料制造商。",
+    "look": "看新品、产品目录、面料应用、样品服务与供货能力的组合。",
+    "use": "参考专业信息结构；你们不必照搬制造工厂定位。",
+    "tier": "business"
+  },
+  {
+    "id": 13,
+    "name": "Jidapa Thai Craft",
+    "url": "https://www.jidapathaicraft.com/",
+    "type": "手工面料 · 泰丝",
+    "tags": [
+      "apparel",
+      "silk"
+    ],
+    "focus": "手作故事 × 精品感",
+    "about": "泰国手工面料与泰丝品牌，带定制服装相关展示。",
+    "look": "看面料工艺、地方手作、品牌故事与 Lookbook 如何衔接。",
+    "use": "适合参考文化和工艺表达，不作为综合批发平台模板。",
+    "tier": "business"
+  },
+  {
+    "id": 14,
+    "name": "Chattong Thai Silk",
+    "url": "https://www.chattongthaisilks.com/",
+    "type": "泰丝面料",
+    "tags": [
+      "apparel",
+      "silk"
+    ],
+    "focus": "泰国文化 × 花色选料",
+    "about": "泰国泰丝品牌；包含按码销售的面料与成品。",
+    "look": "看按颜色、织法、花型找面料，以及传统泰丝与新品的结合。",
+    "use": "适合参考本地特色；不建议整套照搬。",
+    "tier": "business"
+  },
+  {
+    "id": 15,
+    "name": "Sunnyya",
+    "url": "https://www.sunnyya.co.th/",
+    "type": "室内 · 户外功能面料",
+    "tags": [
+      "interior",
+      "function"
+    ],
+    "focus": "专业顾问 × 场景选材",
+    "about": "服务泰国市场的室内与户外功能面料供应商。",
+    "look": "看面料品牌、应用场景、电子目录以及样品和库存服务。",
+    "use": "主要参考专业采购路径，而非整站视觉。",
+    "tier": "function"
+  },
+  {
+    "id": 16,
+    "name": "Nitas Tessile",
+    "url": "https://www.nitas-tessile.com/",
+    "type": "窗帘 · 覆面 · 户外面料",
+    "tags": [
+      "interior",
+      "function"
+    ],
+    "focus": "多维分类 × 快速缩小范围",
+    "about": "曼谷装饰面料供应商。",
+    "look": "看颜色、功能、自然感、丝绸感、丝绒感与 Outlet 的分类维度。",
+    "use": "适合参考复杂面料库的筛选与导航。",
+    "tier": "function"
+  },
+  {
+    "id": 17,
+    "name": "Klasz Design",
+    "url": "https://www.klasz-design.com/",
+    "type": "窗帘 · 沙发布 · 遮光布",
+    "tags": [
+      "interior",
+      "function"
+    ],
+    "focus": "样册资料 × 功能选材",
+    "about": "曼谷窗帘、家具与户外面料供应商。",
+    "look": "重点看 Sample Book 和功能面料分类。",
+    "use": "作为选样资料结构参考，不是强视觉首页首选。",
+    "tier": "function"
+  },
+  {
+    "id": 18,
+    "name": "BSK Textiles",
+    "url": "https://bsktextiles.net/",
+    "type": "梭织 · 棉布 · 衬衫布",
+    "tags": [
+      "apparel"
+    ],
+    "focus": "常备库存 × 批发询盘",
+    "about": "曼谷梭织面料批发商。",
+    "look": "看常备库存、样布、大货询盘，以及商品编号与色号的展示。",
+    "use": "业务逻辑比视觉更值得借鉴。",
+    "tier": "function"
+  },
+  {
+    "id": 19,
+    "name": "SITT Textile",
+    "url": "https://www.sitttextile.com/",
+    "type": "时装 · 装饰面料",
+    "tags": [
+      "apparel",
+      "interior"
+    ],
+    "focus": "泰文分类 × 本地找布",
+    "about": "曼谷时装与装饰面料零售、批发商。",
+    "look": "看泰文产品分类、现货信息和联系入口。",
+    "use": "用于了解本地找布方式，不作为高级感首选。",
+    "tier": "function"
+  },
+  {
+    "id": 20,
+    "name": "BJ Fabric",
+    "url": "https://bjfabric.com/",
+    "type": "服装面料 · 缎面 · 印花",
+    "tags": [
+      "apparel",
+      "print"
+    ],
+    "focus": "商品展示 × 联系询价",
+    "about": "曼谷服装面料商。",
+    "look": "看新品、系列与 LINE 询价如何衔接。",
+    "use": "适合参考不公开大货价格时的联系路径。",
+    "tier": "function"
+  }
+]
